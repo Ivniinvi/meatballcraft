@@ -1060,6 +1060,7 @@
 
 
 
+<contenttweaker:perfected_imbuement_fabrial>.addTooltip(format.red("未完成"));
 <contenttweaker:perfected_imbuement_fabrial>.addTooltip(format.gold("用法："));
 <contenttweaker:perfected_imbuement_fabrial>.addTooltip(format.yellow("  与任意工蜂合成来自动提取其品种基因"));
 
@@ -1562,7 +1563,7 @@
 <aoa3:fragmented_anima_stone>.addTooltip(format.aqua("  收割植物和破坏树叶时获得。"));
 <aoa3:fragmented_anima_stone>.addTooltip(format.aqua("  掉落概率随灵气等级提升"));
 <aoa3:fragmented_anima_stone>.addTooltip(format.gold("用法："));
-<aoa3:fragmented_anima_stone>.addTooltip(format.yellow("  与上过作物架的种子合成来复制它们（会保持相同的等级）"));
+<aoa3:fragmented_anima_stone>.addTooltip(format.yellow("  与*部分*上过作物架的种子合成来复制它们（会保持相同的等级）"));
 
 
 
@@ -1601,6 +1602,10 @@
 
 <thaumictinkerer:ichorium_pick_adv:*>.addTooltip(format.gold("用法："));
 <thaumictinkerer:ichorium_pick_adv:*>.addTooltip(format.yellow("  每破坏一个方块，额外获得200点采掘经验"));
+
+
+<thaumictinkerer:ichorium_axe_adv:*>.addTooltip(format.darkRed("警告："));
+<thaumictinkerer:ichorium_axe_adv:*>.addTooltip(format.red("  不要在伐木模式下破坏暮色森林的荆棘"));
 
 <aoa3:rock_pick_sword:*>.addTooltip(format.gold("用法："));
 <aoa3:rock_pick_sword:*>.addTooltip(format.yellow("  每破坏一个方块，额外获得150点采掘经验"));
@@ -3343,7 +3348,7 @@
 <contenttweaker:screaming_blood_infused_glitch_block>.addTooltip(format.white("     x6并行"));
 
 <avaritia:block_resource:1>.addTooltip(format.gold("多方块升级："));
-<avaritia:block_resource:1>.addTooltip(format.aqua("  热钢混合器"));
+<avaritia:block_resource:1>.addTooltip(format.aqua("  钢制热力混合器"));
 <avaritia:block_resource:1>.addTooltip(format.white("     x10并行"));
 
 <contenttweaker:plasma_wood>.addTooltip(format.gold("多方块升级："));
@@ -3523,13 +3528,13 @@
 <contenttweaker:miniature_quasar>.addTooltip(format.white("     物品/流体产出x4"));
 
 <contenttweaker:ascended_fluix_etcher>.addTooltip(format.gold("多方块升级："));
-<contenttweaker:ascended_fluix_etcher>.addTooltip(format.aqua("  净间加工机"));
+<contenttweaker:ascended_fluix_etcher>.addTooltip(format.aqua("  处理器超净间"));
 <contenttweaker:ascended_fluix_etcher>.addTooltip(format.white("     x10并行"));
 <contenttweaker:ascended_fluix_etcher>.addTooltip(format.white("---------------------"));
 <contenttweaker:ascended_fluix_etcher>.addTooltip(format.green("感谢NerdySpider绘制的纹理！"));
 
 <contenttweaker:cyclical_fluix_etcher>.addTooltip(format.gold("多方块升级："));
-<contenttweaker:cyclical_fluix_etcher>.addTooltip(format.aqua("  净间加工机"));
+<contenttweaker:cyclical_fluix_etcher>.addTooltip(format.aqua("  处理器超净间"));
 <contenttweaker:cyclical_fluix_etcher>.addTooltip(format.white("     x1000并行"));
 
 <contenttweaker:naquadah_casing>.addTooltip(format.gold("多方块升级："));
@@ -3738,7 +3743,7 @@
 <contenttweaker:event_horizon_condenser>.addTooltip(format.white("     x64并行"));
 
 <contenttweaker:universal_fluix_etcher>.addTooltip(format.gold("多方块升级："));
-<contenttweaker:universal_fluix_etcher>.addTooltip(format.aqua("  净间加工机"));
+<contenttweaker:universal_fluix_etcher>.addTooltip(format.aqua("  处理器超净间"));
 <contenttweaker:universal_fluix_etcher>.addTooltip(format.white("     x100并行"));
 
 <forge:bucketfilled>.withTag({FluidName: "converging_recursive_essence", Amount: 1000}).addTooltip(format.gold("多方块升级："));

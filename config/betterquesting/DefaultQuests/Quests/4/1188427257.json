@@ -1,27 +1,26 @@
 {
   "preRequisites:11": [
-    50054,
-    13
+    1910843999
   ],
   "properties:10": {
     "betterquesting:10": {
-      "desc:8": "§7§o闪耀的光可在主世界各处发现，使用石碗从中收集注魔石，还能提升注魔技能！",
+      "desc:8": "",
       "icon:10": {
         "Count:3": 1,
-        "id:8": "aoa3:stone_bowl"
+        "id:8": "ae2overclocked:molecular_assembler_tier_3"
       },
-      "name:8": "石碗"
+      "name:8": "64X分子装配室"
     }
   },
-  "questID:3": 50065,
+  "questID:3": 1188427257,
   "rewards:9": {
     "0:10": {
       "index:3": 0,
       "rewardID:8": "bq_standard:item",
       "rewards:9": {
         "0:10": {
-          "Count:3": 2,
-          "id:8": "aoa3:glistening_infusion_stone"
+          "Count:3": 1,
+          "id:8": "ae2overclocked:molecular_assembler_tier_3"
         }
       }
     }
@@ -32,7 +31,7 @@
       "requiredItems:9": {
         "0:10": {
           "Count:3": 1,
-          "id:8": "aoa3:stone_bowl"
+          "id:8": "ae2overclocked:molecular_assembler_tier_3"
         }
       },
       "taskID:8": "bq_standard:retrieval"

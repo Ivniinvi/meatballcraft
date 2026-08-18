@@ -44,7 +44,7 @@ import crafttweaker.item.IItemCondition;
 
 <botania:flugeleye>.addTooltip(format.red("使用命运骰子获得"));
 
-<contenttweaker:eldritch_flower>.addTooltip(format.red("站在黑曜石前方（黑曜石高度与玩家脚下方块高度相同），面朝东"));
+<contenttweaker:eldritch_flower>.addTooltip(format.red("站在黑曜石西侧（黑曜石高度与玩家脚下方块高度相同），面朝东时右击"));
 
 <contenttweaker:lost_memory>.addTooltip(format.red("通过疯狂百合获得"));
 
@@ -1928,10 +1928,6 @@ import crafttweaker.item.IItemCondition;
 
 <techreborn:rolling_machine>.addTooltip(format.red("辊压机可锁定配方，使用多个机器进行被动自动化！"));
 
-<projecte:item.pe_destruction_catalyst>.addTooltip(format.red("警告：该物品十分危险，不要基地使用！"));
-<projecte:item.pe_destruction_catalyst>.addTooltip(format.red("按V键扩大范围，Shift+V缩小范围。"));
-<projecte:item.pe_destruction_catalyst>.addTooltip(format.red("右击进行挖掘！"));
-<projecte:item.pe_destruction_catalyst>.addTooltip(format.red("需要EMC才能工作，使用卡莱恩能量之星之类的物品供能！"));
 
 <projecte:item.pe_zero_ring>.addTooltip(format.red("按V键扩大范围，Shift+V缩小范围，C键开关。"));
 <projecte:item.pe_zero_ring>.addTooltip(format.red("需要EMC才能工作，使用卡莱恩能量之星之类的物品供能！"));

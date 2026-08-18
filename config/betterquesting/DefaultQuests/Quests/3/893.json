@@ -1,6 +1,6 @@
 {
   "preRequisites:11": [
-    20543
+    20523
   ],
   "properties:10": {
     "betterquesting:10": {
@@ -9,13 +9,13 @@
         "Count:3": 1,
         "id:8": "modularmachinery:itemblueprint",
         "tag:10": {
-          "dynamicmachine:8": "modularmachinery:berserker_forge"
+          "dynamicmachine:8": "modularmachinery:iron_centrifuge"
         }
       },
-      "name:8": "屠龙者熔炉"
+      "name:8": "钢制热力混合器"
     }
   },
-  "questID:3": 2246,
+  "questID:3": 893,
   "tasks:9": {
     "0:10": {
       "index:3": 0,
@@ -24,18 +24,8 @@
           "Count:3": 1,
           "id:8": "modularmachinery:itemblueprint",
           "tag:10": {
-            "dynamicmachine:8": "modularmachinery:berserker_forge"
+            "dynamicmachine:8": "modularmachinery:iron_centrifuge"
           }
-        }
-      },
-      "taskID:8": "bq_standard:retrieval"
-    },
-    "1:10": {
-      "index:3": 1,
-      "requiredItems:9": {
-        "0:10": {
-          "Count:3": 1,
-          "id:8": "contenttweaker:berserker_forge_loop"
         }
       },
       "taskID:8": "bq_standard:retrieval"

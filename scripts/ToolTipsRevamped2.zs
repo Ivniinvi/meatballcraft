@@ -27,6 +27,90 @@
 <contenttweaker:tabula_rasa>.addTooltip(format.white("------------------"));
 <contenttweaker:tabula_rasa>.addTooltip(format.green("致谢和梗"));
 
+<aoa3:blank_realmstone>.addTooltip(format.darkRed("警告："));
+<aoa3:blank_realmstone>.addTooltip(format.red("  该物品不应被获取"));
+<aoa3:blank_realmstone>.addTooltip(format.red("  如果你是故意搞来的，请停下，作弊就没意思了……"));
+<aoa3:blank_realmstone>.addTooltip(format.red("  如果是游戏bug导致的，请汇报给我  :)"));
+
+
+<danknull:dank_null_0>.addTooltip(format.gold("用法"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_0>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_0>.addTooltip(format.gold("提示："));
+<danknull:dank_null_0>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+<danknull:dank_null_1>.addTooltip(format.gold("用法"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_1>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_1>.addTooltip(format.gold("提示："));
+<danknull:dank_null_1>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+<danknull:dank_null_2>.addTooltip(format.gold("用法"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_2>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_2>.addTooltip(format.gold("提示："));
+<danknull:dank_null_2>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+<danknull:dank_null_3>.addTooltip(format.gold("用法"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_3>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_3>.addTooltip(format.gold("提示："));
+<danknull:dank_null_3>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+<danknull:dank_null_4>.addTooltip(format.gold("用法"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_4>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_4>.addTooltip(format.gold("提示："));
+<danknull:dank_null_4>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+<danknull:dank_null_5>.addTooltip(format.gold("用法"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  能够自动拾取过滤物品，并且可以放置方块的背包"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  Shift+右键点击为每个槽位设置过滤项"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  Shift+滚轮切换要放置的物品"));
+<danknull:dank_null_5>.addTooltip(format.yellow("  槽位装满后的溢出物品将被销毁"));
+<danknull:dank_null_5>.addTooltip(format.gold("提示："));
+<danknull:dank_null_5>.addTooltip(format.yellow("  建议用它来处理挖矿时获得的所有常见方块，以及一些常见的生物掉落物"));
+
+
+
+
+<projecte:item.pe_catalitic_lens>.addTooltip(format.gold("用法"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  右键点击可挖掘你前方3×3的隧道区域"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  按V增加挖掘深度，Shift+V减少深度"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  需要卡莱恩能量之星中的EMC（或物品栏中的煤炭）才能工作"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.gold("提示："));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.yellow("  与/Dank/Null搭配使用更佳"));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.darkRed("警告："));
+<projecte:item.pe_catalitic_lens>.addTooltip(format.red("  别在基地里乱用  ;)"));
+
+
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.gold("用法"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  右键点击可挖掘你前方3×3的隧道区域"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  按V增加挖掘深度，Shift+V减少深度"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  需要卡莱恩能量之星中的EMC（或物品栏中的煤炭）才能工作"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.gold("提示："));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  与/Dank/Null搭配使用更佳"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.yellow("  如果你想挖掘更大的范围，可以使用催化水晶（深度更长）或红物质钉头锤（宽度更广）"));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.darkRed("警告："));
+<projecte:item.pe_destruction_catalyst>.addTooltip(format.red("  别在基地里乱用  ;)"));
+
+
+<bewitchment:focal_chalk>.addTooltip(format.gold("用法："));
+<bewitchment:focal_chalk>.addTooltip(format.yellow("  用于绘制所有巫师之路仪式的核心"));
+<bewitchment:focal_chalk>.addTooltip(format.yellow("  在JEI中查看该物品的用途，来显示所有仪式圆环的布局，以及每个仪式的消耗"));
+
+
+
 
 <appliedenergistics2:material:52>.addTooltip(format.gold("用法："));
 <appliedenergistics2:material:52>.addTooltip(format.yellow("  编码合成和处理配方，用于自动合成"));
@@ -70,15 +154,10 @@
 
 
 <packagedauto:recipe_holder>.addTooltip(format.gold("用法："));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  封包合成能够自动合成那些输入材料超过9种的配方，尤其适用于合成拓展"));
 <packagedauto:recipe_holder>.addTooltip(format.yellow("  编码封包配方："));
 <packagedauto:recipe_holder>.addTooltip(format.yellow("  - 在封包配方编码器中放入两个封包配方存储器"));
 <packagedauto:recipe_holder>.addTooltip(format.yellow("  - 编码你需要的配方（每对存储器最多20个），然后点击“保存”"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  设置自动合成的方法："));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  - 按此流程放置机器：[封包机] > [解包机] > [封包合成器或其他机器]"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  - 将两个存储器分别插入封包机和解包机中"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("  - 为了进一步提速，可以在解包机的六个面都放上封包合成器，同时以封包机为中心3x3放置扩展机"));
-<packagedauto:recipe_holder>.addTooltip(format.yellow("      具体的摆放建议，可以查看封包合成器的多方块结构预览"));
+<packagedauto:recipe_holder>.addTooltip(format.yellow("  - 将存储器分别放入封包机和解包机中，以用于你想要的自动化方案"));
 <packagedauto:recipe_holder>.addTooltip(format.darkRed("警告："));
 <packagedauto:recipe_holder>.addTooltip(format.red("  不要放入背包中，可能会导致存档损坏"));
 
